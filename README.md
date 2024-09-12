@@ -8,7 +8,7 @@ Published Dashboard Link : https://public.tableau.com/app/profile/roshni.rana134
   
 This Tableau dashboard offers a focused analysis of global coffee production, highlighting the relationship between domestic consumption and import/export trends. It includes:  
   
-### Domestic Consumption vs. Import/Export Trends:   
+### Domestic Consumption vs. Import/Export Trends:    
 Visualizations compare the domestic coffee consumption against import/export data, revealing patterns and discrepancies across different regions.
 
 ### Top 10 Countries:   
